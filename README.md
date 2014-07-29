@@ -29,3 +29,9 @@
 **Thoughts/Undecided**
 
  - May go back on using Projects for contexts, in favor of tags. In which case, I would create a Next Action project.
+
+-----
+
+### Next Actions
+
+Star the project if you found this useful.
